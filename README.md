@@ -41,6 +41,7 @@
         .menu-item:hover {
             transform: translateY(-3px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            background-color: #81d4fa; /* ホバー時に少し濃い水色に */
         }
         
         .menu-item h3 {
