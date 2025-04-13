@@ -73,23 +73,23 @@
         
         <div class="menu-container">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header" class="menu-item">
-                <h3>CAR RENTAL</h3>
+                <h3>新規発注</h3>
             </a>
             
             <a href="https://www.youtube.com" class="menu-item">
-                <h3>YouTube</h3>
+                <h3>車両の一時預かり</h3>
             </a>
             
             <a href="https://www.twitter.com" class="menu-item">
-                <h3>Twitter</h3>
+                <h3>車検のご予約</h3>
             </a>
             
             <a href="https://www.instagram.com" class="menu-item">
-                <h3>Instagram</h3>
+                <h3>事故受け付け</h3>
             </a>
             
             <a href="https://www.amazon.co.jp" class="menu-item full-width">
-                <h3>Amazon</h3>
+                <h3>車両に関しての資料</h3>
             </a>
         </div>
     </div>
