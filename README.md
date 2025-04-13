@@ -59,8 +59,8 @@
         }
         
         .icon {
-            width: 60px;
-            height: 60px;
+            width: 90px;
+            height: 90px;
             background-color: #4285f4;
             border-radius: 50%;
             margin-bottom: 8px;
@@ -72,8 +72,8 @@
         }
         
         .car-icon {
-            width: 60px;
-            height: 60px;
+            width: 90px;
+            height: 90px;
             margin-bottom: 8px;
         }
         
