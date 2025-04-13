@@ -11,6 +11,11 @@
             padding: 0;
             background-color: #ffab40;
         }
+
+        /* 非表示にしたい要素用のクラス */
+        .hidden {
+            display: none;
+        }
         
         .container {
             max-width: 600px;
