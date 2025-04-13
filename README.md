@@ -26,7 +26,7 @@
         }
         
         .menu-item {
-            background-color: #e8f5e9;
+            background-color: #f0f8ff;
             border-radius: 10px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex;
@@ -43,45 +43,21 @@
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         
-        .menu-item i {
-            font-size: 36px;
-            margin-bottom: 10px;
-            color: #4285f4;
+        .menu-item h3 {
+            margin: 0;
+            font-size: 20px; /* テキストのサイズを大きくしました */
+            font-weight: bold;
         }
         
         .menu-item.full-width {
             grid-column: span 2;
         }
         
-        .menu-item h3 {
-            margin: 0;
-            font-size: 16px;
-        }
-        
-        .icon {
-            width: 90px;
-            height: 90px;
-            background-color: #4285f4;
-            border-radius: 50%;
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-        }
-        
-        .car-icon {
-            width: 90px;
-            height: 90px;
-            margin-bottom: 8px;
-        }
-        
         header {
             text-align: center;
             padding: 10px;
             margin-bottom: 20px;
-            background-color: #ffffff;
+            background-color: #e6f2ff;
             border-radius: 10px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
@@ -96,27 +72,22 @@
         
         <div class="menu-container">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header" class="menu-item">
-                <img src="https://github.com/gyojimasahiro/test2/blob/main/Blue%20and%20Black%20Modern%20Illustrative%20Creative%20Simple%20Automotive%20Logo.png?raw=true" alt="CAR RENTAL" class="car-icon">
                 <h3>CAR RENTAL</h3>
             </a>
             
             <a href="https://www.youtube.com" class="menu-item">
-                <div class="icon">Y</div>
                 <h3>YouTube</h3>
             </a>
             
             <a href="https://www.twitter.com" class="menu-item">
-                <div class="icon">X</div>
                 <h3>Twitter</h3>
             </a>
             
             <a href="https://www.instagram.com" class="menu-item">
-                <div class="icon">I</div>
                 <h3>Instagram</h3>
             </a>
             
             <a href="https://www.amazon.co.jp" class="menu-item full-width">
-                <div class="icon">A</div>
                 <h3>Amazon</h3>
             </a>
         </div>
