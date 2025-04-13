@@ -96,7 +96,7 @@
         
         <div class="menu-container">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header" class="menu-item">
-                <img src="車のアイコン画像のURL" alt="CAR RENTAL" class="car-icon">
+                <img src="https://github.com/gyojimasahiro/test2/blob/main/Blue%20and%20Black%20Modern%20Illustrative%20Creative%20Simple%20Automotive%20Logo.png?raw=true" alt="CAR RENTAL" class="car-icon">
                 <h3>CAR RENTAL</h3>
             </a>
             
