@@ -81,7 +81,7 @@
                 <h3>新規発注</h3>
             </a>
             
-            <a href="[https://www.youtube.com](https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header)" class="menu-item">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header" class="menu-item">
                 <h3>車両の一時預かり</h3>
             </a>
             
